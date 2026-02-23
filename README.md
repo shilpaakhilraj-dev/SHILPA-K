@@ -1,37 +1,75 @@
-# Shilpa K
+# Hi 👋 I'm Shilpa K
 
-Angular Developer(v2+)  | Signals | JavaScript | RxJS | HTML | CSS | Bootstrap
+Frontend Engineer | Angular | Signals | JavaScript | RxJS | Scalable UI Architect
 
-I build scalable, high-performance web applications with a strong focus on
-clean architecture, performance, and maintainability.
+I’m a frontend developer with **6 years of hands-on experience** in building and maintaining **enterprise-grade Angular applications**.  
+I specialize in **clean architecture, performance optimization, reusable UI components, and test-driven development**.
 
 ---
 
 ## 🛠 Tech Stack
-- **Frontend:** Angular, JavaScript, TypeScript
-- **State Management:** RxJS, Signals, Akita
-- **UI & Visualization:** HTML, CSS, SVG, D3.js, Bootstrap
-- **Testing:** Jest
-- **Tools:** Git, GitHub, VS Code
+
+**Frontend**
+- Angular, JavaScript, TypeScript
+- HTML, CSS, SCSS
+
+**State & Data Handling**
+- Signals
+- RxJS (dependent API calls, operators, streams)
+- Reactive Forms
+
+**UI & Visualization**
+- SVG, D3.js
+- Dynamic charts & network diagrams
+- Responsive layouts (horizontal & vertical views)
+
+**Testing**
+- Jest (Angular unit testing)
+- Component & lifecycle testing
+- Service and store mocking
+
+**Tools & Practices**
+- Git, GitHub
+- Modular & feature-based architecture
+- Lazy loading (module & template level)
+- Performance optimization
 
 ---
 
-## 🚀 What I Do
-- Build enterprise-level Angular applications
-- Create reusable, dynamic form components
-- Optimize performance using lazy loading & RxJS
-- Write unit tests with Jest
+## 🚀 What I Work On
+
+- Building **scalable Angular applications** with lazy-loaded modules
+- Creating **reusable form components** using `ControlValueAccessor`
+- Managing complex UI state using **RxJS**
+- Developing **dynamic SVG/D3 visualizations**
+- Writing **robust unit tests** with Jest
+- Implementing **RxJS Dependent API Calls & Data Mapping**
+- Improving application performance & maintainability
 
 ---
 
-## 🌱 Currently Learning
+## 📌 Featured Work (Pinned Repositories)
+
+- Angular Lazy Loading & Performance Optimization
+- RxJS Dependent API Calls & Data Mapping
+- Dynamic SVG / D3 Network Charts
+- Reusable Angular Form Components
+- Angular Unit Testing with Jest
+
+_(See pinned repositories below 👇)_
+
+---
+
+## 🌱 Currently Improving
+
 - Advanced RxJS patterns
-- Angular performance optimization
-- System design for frontend applications
-- Angular Signals
-- Node JS
+- Frontend system design
+- Angular performance tuning
+- Clean code & scalable UI architecture
 
 ---
+
+⭐ *I believe great frontend code is not just about UI — it’s about architecture, performance, and long-term maintainability.*
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/shilpa-k-848056247
