@@ -48,7 +48,7 @@ I specialize in **clean architecture, performance optimization, reusable UI comp
 
 ---
 
-## 📌 Featured Work (Pinned Repositories)
+## 📌 Featured Work
 
 - Angular Lazy Loading & Performance Optimization
 - RxJS Dependent API Calls & Data Mapping
