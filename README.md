@@ -56,8 +56,6 @@ I specialize in **clean architecture, performance optimization, reusable UI comp
 - Reusable Angular Form Components
 - Angular Unit Testing with Jest
 
-_(See pinned repositories below 👇)_
-
 ---
 
 ## 🌱 Currently Improving
